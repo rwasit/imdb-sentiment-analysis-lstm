@@ -1,6 +1,0 @@
-Model: Bidirectional LSTM
-Task: Binary sentiment classification
-Dataset: IMDb movie reviews
-Training reviews: 24,000
-Test reviews: 6,000
-Test accuracy: approximately 75%
