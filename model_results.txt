@@ -1,0 +1,25 @@
+IMDb Sentiment Analysis — Final Results
+
+Test accuracy: 79.63%
+Test reviews: 6,000
+
+Negative — precision: 0.75 | recall: 0.88 | F1: 0.81
+Positive — precision: 0.86 | recall: 0.71 | F1: 0.78
+
+Confusion matrix:
+[[2623, 353],
+ [869, 2155]]
+
+Training loss:
+Epoch 1: 0.6501
+Epoch 2: 0.6292
+Epoch 3: 0.4794
+Epoch 4: 0.3543
+Epoch 5: 0.2213
+Epoch 6: 0.1419
+Epoch 7: 0.0948
+Epoch 8: 0.0543
+Epoch 9: 0.0310
+Epoch 10: 0.0242
+Epoch 11: 0.0254
+Epoch 12: 0.0102
